@@ -21,5 +21,3 @@ Course Site: http://datasciencespecialization.github.io/Developing_Data_Products
 2. `Rscript build.R`
 
 `Rscript build.R clean` to start from scratch.
-
-# add some comments
